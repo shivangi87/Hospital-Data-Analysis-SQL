@@ -1,14 +1,8 @@
-<img width="526" height="360" alt="{90E9FF43-CBAA-4492-B73D-B4758DD9B4FB}" src="https://github.com/user-attachments/assets/14515ad1-2438-4774-bef7-704169ef5d2d" />
-
-
 🏥 Hospital Data Analysis using SQL Project
 
 📌 Project Overview
 I designed and implemented a relational database for a Hospital Management System and analyzed the data using advanced SQL techniques. The dataset covered patients, doctors, appointments, treatments, and billing records across hospital branches.
 The goal of the project was to extract actionable insights that support better patient care, improve operational efficiency, and strengthen financial management.
-
-## 📅 Duration
-**April 2024**
 
 ## 📌 Description
 As part of a Database Management Systems (DBMS) project, this analysis was performed using structured SQL queries on hospital datasets. The goal was to extract actionable insights from the data to help stakeholders optimize healthcare delivery and operational efficiency.
